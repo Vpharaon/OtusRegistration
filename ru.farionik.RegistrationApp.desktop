@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.farionik.RegistrationApp
+Exec=/usr/bin/ru.farionik.RegistrationApp
+Name=RegistrationApp
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.farionik
+ApplicationName=RegistrationApp
+ExecDBus=/usr/bin/ru.farionik.RegistrationApp
